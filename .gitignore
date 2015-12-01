@@ -1,0 +1,8 @@
+*.suo
+QuoteIt/bin
+QuoteIt_Test/bin
+QuoteIt_Test/obj
+QuoteIt_Setup/Debug
+QuoteIt_Setup/Release/setup.exe
+TestResults
+obj
